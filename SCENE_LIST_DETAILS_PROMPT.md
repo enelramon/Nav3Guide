@@ -3,6 +3,8 @@
 ## Contexto
 Este documento proporciona una guía completa para implementar el patrón **Scene List Details** en una aplicación nativa de Jetpack Compose utilizando Navigation 3.0, siguiendo las mejores prácticas de arquitectura MVVM y Kotlin Multiplatform.
 
+> **Nota**: Este es un documento guía que muestra cómo **implementar nuevas funcionalidades** (Scene List/Details). Los nombres de clases y archivos mostrados (SceneListScreen, SceneDetailScreen, etc.) son ejemplos de lo que se debe crear, no referencias al código existente del proyecto.
+
 ## Arquitectura del Patrón List-Details
 
 ### 1. Estructura de Navegación
